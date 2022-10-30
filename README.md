@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @petherEm, running my WebDev and business consulting as PiotrDev
-- I am a seasoned (15+ years) Senior Manager in Banking & Finance industry
+- 🔞 I am a seasoned (15+ years) Senior Manager in Banking & Finance industry
 - 👀 I’m mainly interested in web3 concepts and data science
 - 📫 You can reach me via my GitHub, LinkedIn profile or messaging through my website **piotrdev.com**
 
