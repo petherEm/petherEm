@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 I have been digitizing Europe's Payments and Remittance sector for the past ten years. 
-I am a seasoned (15+ years) Senior Manager in Banking & Finance industry. 
+I am a seasoned (15+ years) Senior Manager in Banking, Payments & Finance industries. 
 As a **Head of Sales and Integrations at Western Union (NYSE: WU)**, I sell and integrate the WU payments platform to Financial Institutions across EEA countries. 
 My current role spans contract negotiations and business and compliance requirements set (AMLD, PSD2, GDPR) through solution design and cross-functional team management in a highly regulated financial industry. 
 Previously I was responsible for WU's digital expansion and development of the **WU App and westernunion.com**. 
