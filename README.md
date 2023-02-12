@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @petherEm, running my WebDev and business consulting as PiotrDev
 - 🔞 I am a seasoned (15+ years) Senior Manager in Banking & Finance industry
 - 👀 I’m mainly interested in web3 concepts and data science
-- 📫 You can reach me via my GitHub, LinkedIn profile or messaging through my website **piotrdev.com**
+- 📫 You can reach me via my GitHub, LinkedIn profile or messaging through my website **piotrdev.com** or **piotrmaciejewski.com**
 
 <!---
 petherEm/petherEm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 
 
 I have been digitizing Europe's Payments and Remittance sector for the past ten years. 
