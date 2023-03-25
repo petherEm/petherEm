@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petherEm, running my WebDev and business consulting as PiotrDev
 - 🔞 I am a seasoned (15+ years) Senior Manager in Banking & Finance industry
-- 👀 I’m mainly interested in web3 concepts and data science
+- 👀 I’m mainly exploring data science fields, geo data visualization and web3 concepts
 - 📫 You can reach me via my GitHub, LinkedIn profile or messaging through my website **piotrdev.com** or **piotrmaciejewski.com**
 
 <!---
