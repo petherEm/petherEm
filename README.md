@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @petherEm, running my WebDev and business consulting as PiotrDev
+- 👋 Hi, I’m @petherEm, running my WebDev and business consulting as vabank.dev
 - 🔞 I am a seasoned (15+ years) Senior Manager in Banking & Finance industry
 - 👀 I’m mainly exploring data science fields, geo data visualization and web3 concepts
-- 📫 You can reach me via my GitHub, LinkedIn profile or messaging through my website **piotrdev.com** or **piotrmaciejewski.com**
+- 📫 You can reach me via my GitHub, LinkedIn profile or messaging through my website **vabank.dev** or **piotrmaciejewski.com**
 
 <!---
 petherEm/petherEm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Previously I was responsible for WU's digital expansion and development of the *
 I was integrating new payment methods, improving the customer onboarding and verification process and driving the overall WU digital product strategy for Central Europe. 
 I also held various Business, Operations and Compliance roles in ABN Amro Bank, Royal Bank of Scotland, State Street Bank and Western Union. 
 
-Since I was 8, I have been passionate about programming and learning foreign languages. **I am fluent in English, French and advanced in Spanish. I am native Polish.**
+Since I was 8, I have been passionate about programming and learning foreign languages. **I am fluent in English, French and advanced in Spanish (C1). I am native Polish.**
