@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petherEm, running my WebDev and business consulting as vabank.dev
 - 🔞 I am a seasoned (16+ years) Senior Manager in Banking & Finance industry
-- 👀 I’m mainly exploring Full Stack Development, Data Science fields, and geo data visualization.
+- 👀 I do Full Stack Development, AI implementation, robust Data Analysis and geo data visualization.
 - 📫 You can reach me via my GitHub, LinkedIn profile or messaging through my website **vabank.dev** or **piotrmaciejewski.com**
 
 <!---
